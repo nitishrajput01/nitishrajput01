@@ -113,17 +113,12 @@ const nitish = {
 ## 🌱 Currently Exploring
 
 - 📐 **System Design** — Distributed systems, scalability patterns
-- ⚡ **Next.js / Nuxt.js** — Server-side rendering & full-stack capabilities
 - ☸️ **Kubernetes** — Container orchestration for production deployments
 - 🏗️ **AWS Solutions Architect** — Preparing for SAA-C03
 
 ---
 
-<div align="center">
-
-*"Good architecture is not about making things complex — it's about making complex things simple."*
-
-**Open to exciting Frontend / Full-Stack opportunities!**
+**Open to Frontend / Full-Stack opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-k01)
 
