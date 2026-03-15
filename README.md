@@ -31,7 +31,7 @@ const nitish = {
   location:    "Noida, India 🇮🇳",
   expertise:   ["Angular 6-19", "Vue.js", "NgRx", "RxJS", "Microfrontend"],
   currentWork: "Architecting microfrontend platforms with Module Federation",
-  learning:    ["System Design", "Next.js", "Kubernetes"],
+  learning:    ["System Design", "Kubernetes"],
   aws:         "Certified Cloud Practitioner ☁️",
   teamLead:    true,
   askMeAbout:  ["Angular", "NgRx", "Performance Optimization", "WCAG Accessibility"],
