@@ -109,22 +109,6 @@ const nitish = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nitishrajput01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishrajput01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nitishrajput01&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
