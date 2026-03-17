@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Nitish — Frontend Engineering Leader based in Noida, India
+### 👋 Hi, I'm Nitish — Senior Frontend Engineer based in Noida, India
 
 **10+ years** building scalable, high-performance web applications at enterprise scale  
 Specialized in **Angular · Vue.js · NgRx · Microfrontend Architecture**
