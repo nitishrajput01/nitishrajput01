@@ -12,7 +12,7 @@
 ### 👋 Hi, I'm Nitish — Senior Frontend Engineer based in Noida, India
 
 **10+ years** building scalable, high-performance web applications at enterprise scale  
-Specialized in **Angular · Vue.js · NgRx · Microfrontend Architecture**
+Specialized in **Angular · React · Vue.js · Redux · NgRx · Microfrontend Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nitish--k01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-k01)
 [![Email](https://img.shields.io/badge/Email-nitishrajput01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishrajput01@gmail.com)
@@ -29,12 +29,12 @@ const nitish = {
   role:        "Project Leader – Frontend Engineering @ R Systems International",
   experience:  "10+ years",
   location:    "Noida, India 🇮🇳",
-  expertise:   ["Angular 6-19", "Vue.js", "NgRx", "RxJS", "Microfrontend"],
+  expertise:   ["Angular 6-19", "React", "Vue.js", "Redux", "NgRx", "RxJS", "Microfrontend"],
   currentWork: "Architecting microfrontend platforms with Module Federation",
   learning:    ["System Design", "Kubernetes"],
   aws:         "Certified Cloud Practitioner ☁️",
   teamLead:    true,
-  askMeAbout:  ["Angular", "NgRx", "Performance Optimization", "WCAG Accessibility"],
+  askMeAbout:  ["Angular", "React" "Redux", "NgRx", "Performance Optimization", "WCAG Accessibility"],
 };
 ```
 
